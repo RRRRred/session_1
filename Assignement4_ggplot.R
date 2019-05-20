@@ -1,5 +1,6 @@
 # ggplot 2 exercise
 # Assignment 4
+# Session 2
 
 library(ggplot2)
 library(tidyverse)
