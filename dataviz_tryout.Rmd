@@ -5,9 +5,17 @@ date: "20-5-2019"
 output: html_document
 ---
 
+Does this setup-code always have to be included?
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+
+## Data visualisation try-out
+
+Download prostate_cancer data
+
+
 
 ## R Markdown
 
